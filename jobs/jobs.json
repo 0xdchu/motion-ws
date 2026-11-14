@@ -194,7 +194,7 @@
     "file": "/tmp/ref_chase_ai.mp4",
     "status": "todo",
     "created": "2026-10-27T07:41:39.848Z",
-    "note": "ingest xong, chờ phân tích",
+    "note": "teardown xong, chờ duyệt remake",
     "output": null,
     "duration": 849.533333,
     "size": 49053790,
@@ -210,3 +210,4 @@
     "preset": "pipeline-diagram"
   }
 ]
+
