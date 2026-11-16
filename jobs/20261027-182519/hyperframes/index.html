@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head><meta charset="UTF-8">
+<meta name="viewport" content="width=1280, height=720">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html, body { margin: 0; width: 1280px; height: 720px; overflow: hidden; background: #141414; }
+body { font-family: system-ui, sans-serif; }
+#root { position: relative; width: 1280px; height: 720px; }
+#scene { position: absolute; inset: 0; }
+h1 { position: absolute; top: 300px; width: 1280px; text-align: center; color: #f2f2f2; font-size: 44px; }
+</style></head>
+<body>
+<div id="root" data-composition-id="main" data-start="0" data-duration="42" data-width="1280" data-height="720" data-fps="30">
+<div id="scene" class="clip" data-start="0" data-duration="42" data-track-index="1">
+<h1>wdevdn - anatomy ve phin ca phe</h1>
+</div></div>
+<script>
+/* GSAP timeline: window.__timelines["main"] = gsap.timeline({ paused: true }); */
+window.__timelines = window.__timelines || {};
+</script>
+</body></html>

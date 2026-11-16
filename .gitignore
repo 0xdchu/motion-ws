@@ -35,3 +35,9 @@ templates/*/render-log.txt
 # phiên agent
 HANDOFF.md
 .claude/settings.local.json
+# teardown analysis: audio and frames are re-extracted by ingest (regenerable)
+jobs/*/analysis/audio.wav
+jobs/*/analysis/frames/
+jobs/*/analysis/contact-sheet.jpg
+# archify diagram runs (regenerable, hold local paths)
+.archify/
