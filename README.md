@@ -7,7 +7,7 @@ tính nhất quán phong cách, không phải sao chép từng clip. Xem đầy 
 ## Cài trên máy mới (bắt buộc trước khi dùng `/corporate-motion` hay teardown)
 
 ```
-git clone https://github.com/0xdonniechu/motion-ws.git
+git clone https://github.com/0xdchu/motion-ws.git
 ```
 
 Cần có sẵn trên máy:
